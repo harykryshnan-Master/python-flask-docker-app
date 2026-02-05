@@ -1,4 +1,4 @@
-FROM python:3.13.2
+FROM python:3.14.3
 
 MAINTAINER Ashok Bollepalli "ashokitschool@gmail.com"
 
